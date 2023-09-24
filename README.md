@@ -16,7 +16,7 @@ e acompanha uma tabela listada de todos os item cadastrados.
 
 ## Capturas de Tela
 
-![Captura de Tela 1](screenshots/imagem1.png)
+![Captura de Tela 1](screenshots/imagem2.png)
 
 ## Pré-requisitos
 
