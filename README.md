@@ -4,13 +4,15 @@ Um repositório dedicado a um simples player de música.
 
 ## Visão Geral
 
-Este é um projeto Crud desenvolvido em [HTML CSS JS] que permite aos usuários cadastrar e excluir items.
+Este é um projeto Crud desenvolvido em [HTML CSS JS] que permite aos usuários cadastrar excluir e alterar items,
+e acompanha uma tabela listada de todos os item cadastrados.
 
 ## Funcionalidades Principais
 
 - Cadastrar.
 - Excluir.
 - Alterar.
+- Tabela.
 
 ## Capturas de Tela
 
